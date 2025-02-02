@@ -1,0 +1,7 @@
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+/.vs
+*.cache
+/PackageVerUp/obj
